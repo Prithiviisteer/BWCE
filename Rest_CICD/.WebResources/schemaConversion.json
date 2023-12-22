@@ -1,0 +1,12 @@
+{"records": [
+    {
+        "jsonSchemaLocation": "/Rest_CICD/Service Descriptors/rest_cicd.Process-Resource.json",
+        "conversionType": "linked",
+        "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1703247204906"
+    },
+    {
+        "jsonSchemaLocation": "/Rest_CICD/Service Descriptors/rest_cicd.Process-Resource.json",
+        "conversionType": "linked",
+        "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1703247253595"
+    }
+]}
